@@ -1,0 +1,66 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Dr. Thorben Pelzer"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "logo.jpeg"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [author]
+   name = "Dr. Thorben Pelzer"
+   image = "logo.jpg"
+   headline = "China specialist, data professional, project manager"
+  # bio = "A highly motivated East Asia expert with a passion for bridging the gap between research and real-world applications. I bring over seven years of experience in academic research, focusing on economic history and social dynamics in modern China. My foray into data analysis equip me to leverage my expertise to provide insightful solutions for businesses and organizations."
+   links = [
+      { linkedin = "https://www.linkedin.com/in/thorben-pelzer/" },
+     { email = "mailto:thorben@pelzer.blog" },
+ #    { link = "https://blowfish.page/" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+#     { facebook = "https://facebook.com/username" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+     { orcid = "https://orcid.org/0000-0001-5039-3779" },
+     { github = "https://github.com/tp451" },
+#     { gitlab = "https://gitlab.com/username" },
+     { google = "https://scholar.google.com/citations?user=LD-HpsEAAAAJ" },
+#     { hashnode = "https://username.hashnode.dev" },
+#     { instagram = "https://instagram.com/username" },
+#     { keybase = "https://keybase.io/username" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+   
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+     { steam = "https://steamcommunity.com/id/captainfish/" },
+#     { telegram = "https://t.me/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+#     { twitter = "https://twitter.com/burufugu" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+#     { ko-fi = "https://ko-fi.com/username" },
+   ]
