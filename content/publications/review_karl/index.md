@@ -1,5 +1,5 @@
 ---
-title: "Review of Clinton: Revolutionary Nativism"
+title: "Review of Karl: The Magic of Concepts. History and the Economic in Twentieth-century China"
 date: 2019-10-18
 draft: false
 tags: ["articles"]
