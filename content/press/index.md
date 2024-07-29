@@ -13,9 +13,15 @@ tags: ["press"]
 
 ## Columns
 
-+ [“China’s LGBT Community Still Fighting for their Rights,” w/ L. Shen, *CNN*, Hong Kong, 6/2016.](https://www.cnn.com/2016/06/17/opinions/china-shanghai-pride-lgbt-rights/index.html)
+* [“China’s LGBT Community Still Fighting for their Rights,” w/ L. Shen, *CNN*, Hong Kong, 6/2016.](https://www.cnn.com/2016/06/17/opinions/china-shanghai-pride-lgbt-rights/index.html)
 
 ## Reviews
+
+### Engineering Trouble
+
+* [Delphine Spicq, *Technology and Culture* 65, no. 3](https://muse.jhu.edu/article/933107)
+
+### 100 Karten über China
 
 + [Wolfgang Hirn, *Chinahirn* 54, 10/2022](https://www.chinahirn.de/2022/10/30/chinahirn-liest-32/)
 

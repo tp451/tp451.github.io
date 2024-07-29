@@ -58,7 +58,7 @@ tags: ["cv"]
 
 + Science Communication (National Institute for Science Communication)
 
-+ [Medical Cannabis Specialisation](https://coursera.org/share/42a30d066c27eda73bc520b073c6e1ea)
++ [Medical Cannabis Specialisation](https://coursera.org/share/42a30d066c27eda73bc520b073c6e1ea) (University of Colorado Boulder)
 
 ## Research Trips
 
