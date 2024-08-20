@@ -12,9 +12,9 @@ tags: ["presentations"]
 
 + [“Identifying Critical Infrastructures and Transport Hubs through Digital Simulations based on Archival Maps,” MPIWG Berlin, 2024.](https://www.mpiwg-berlin.mpg.de/event/charting-european-d-sea#conference)
 
-+ “Simulating Historical Transport Networks through Archival Maps Geographic Mobility in Late Republican China,” Aix-Marseille, 2024.
++ [“Simulating Historical Transport Networks through Archival Maps Geographic Mobility in Late Republican China,” Aix-Marseille, 2024.](https://enepchina.hypotheses.org/5630)
 
-+ “Chinese Engineers Relational Database (CERD)—Retrospective and Outlook,” Aix-Marseille, 2024.
++ [“Chinese Engineers Relational Database (CERD)—Retrospective and Outlook,” Aix-Marseille, 2024.](https://enepchina.hypotheses.org/5630)
 
 + [“Chinese Engineers Relational Database,” Digital Humanities Day, Leipzig, 2023.](https://fdhl.info/dhdl-2023-projekte/#cerd)
 
@@ -22,7 +22,7 @@ tags: ["presentations"]
 
 + [“Pragmatist Influence on Engineering Courses in Republican China,” EdUHK, Hong Kong, 2023.](https://www.eduhk.hk/lcs/event/global-histories-of-education-dialogue-john-dewey-s-reception-in-china-educating-citizens-and-engineers)
 
-+ “Bridging the Gap: Anglophone ‘Young China’ and the British Boxer Indemnity Fund, 1925–1950,” Revisiting the Study Abroad Movement in Modern China, Aix-Marseille, 2023.
++ [“Bridging the Gap: Anglophone ‘Young China’ and the British Boxer Indemnity Fund, 1925–1950,” Revisiting the Study Abroad Movement in Modern China, Aix-Marseille, 2023.](https://enepchina.hypotheses.org/5211)
 
 + [“The Chinese West during Wartime—Spatial Imaginations from Japan,” Center for Contemporary Chinese Studies, Keio University, Tokyo, 2023.](http://www.kieas.keio.ac.jp/information/000543.html)
 
