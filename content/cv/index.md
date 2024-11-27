@@ -44,13 +44,15 @@ tags: ["cv"]
 
 ## Certificates
 
++ **[IBM Full Stack Software Developer Professional Certificate](https://coursera.org/share/166c9d4539379c0ac28dd6bf811eeca2)**
+
 + **[Google Advanced Data Analytics Professional Certificate](https://coursera.org/share/d1b68eb35cabed11e6ceee1fc9e1f20c)**
 
 + [**Google Data Analytics Professional Certificate**](https://coursera.org/share/2d08c6326db8b3daae1a9ecc8438d700)
 
-+ [“Foundational C#” Microsoft Certificate](https://www.freecodecamp.org/certification/fcc44570c3e-2467-4253-bbd3-8da5eea6ff16/foundational-c-sharp-with-microsoft)
++ [Microsoft “Foundational C#” Certificate](https://www.freecodecamp.org/certification/fcc44570c3e-2467-4253-bbd3-8da5eea6ff16/foundational-c-sharp-with-microsoft)
 
-+ [“Responsive Web Design” freeCodeCamp Certificate](https://www.freecodecamp.org/certification/fcc44570c3e-2467-4253-bbd3-8da5eea6ff16/responsive-web-design)
++ [freeCodeCamp “Responsive Web Design”  Certificate](https://www.freecodecamp.org/certification/fcc44570c3e-2467-4253-bbd3-8da5eea6ff16/responsive-web-design)
 
 + [“Google AI Essentials” Course](https://coursera.org/share/69afcd6af73426124b8940a20e14b83f)
 

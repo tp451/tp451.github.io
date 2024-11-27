@@ -8,7 +8,11 @@ tags: ["presentations"]
 
 ## Conference Papers & Workshop Presentations
 
-+ “The Transformation of Lanzhou through Wartime Infrastructural Planning,” Transitions and Transformations of Urban Mobility Infrastructures and Practices in 20th Century East Asia, 22th Annual Conference of the International Association for the History of Transport, Traffic & Mobility (T2M), Leipzig, scheduled 2024.
++ [“Lanzhou im Krieg: Urbanisierung eines infrastrukturellen Knotenpunkts [Lanzhou during Wartime: Urbanisation of an Infrastructural Hub],“ DVCS, Münster, 2024.](https://www.uni-muenster.de/imperia/md/content/sinologie/pdf/dvcs_2024_poster.pdf)
+
++ [“Engineers in Taiwan, 1945–1974: Migration & Taiwanisation.” TAP, Bochum, 2024.](https://www.oaw.ruhr-uni-bochum.de/mam/forschung/tru/posters/digital_workshop_program.pdf)
+
++ [“The Transformation of Lanzhou through Wartime Infrastructural Planning,” Transitions and Transformations of Urban Mobility Infrastructures and Practices in 20th Century East Asia, 22th Annual Conference of the International Association for the History of Transport, Traffic & Mobility (T2M), Leipzig, 2024.](https://indico.leibniz-ifl.de/event/8/timetable/?view=standard)
 
 + [“Identifying Critical Infrastructures and Transport Hubs through Digital Simulations based on Archival Maps,” MPIWG Berlin, 2024.](https://www.mpiwg-berlin.mpg.de/event/charting-european-d-sea#conference)
 
