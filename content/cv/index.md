@@ -14,18 +14,19 @@ tags: ["cv"]
 | 2016–2017  | Exchange            | East Asia Studies                  | **National Taiwan Normal University** |                                      |
 | 2011–2015  | **B. A.**           | Chinese Studies & Japanese Studies | Ruhr-University Bochum                | Regine Mathias & Jan Schmidt         |
 | 2014, 2012 | Exchange            | Chinese Language                   | **Tongji University**                 |                                      |
-| 2013–2014  | Exchange            | Human Sciences                     | **Osaka University**                  |                                      |
+| 2013–2014  | Exchange            | Human Sciences                     | **Osaka University**                  | Muta Kazue                           |
 
 ## Career
 
-| Year      | Position                    | Field              | Organisation                                               |
-| --------- | --------------------------- | ------------------ | ---------------------------------------------------------- |
-| 2020–2024 | **Postdoc Researcher**      | Global Dynamics    | **Leipzig University**                                     |
-| 2023      | **Postdoc Research Fellow** | Economic History   | **Keio University**                                        |
-| 2017–2021 | Lecturer & Researcher       | Chinese Studies    | Leipzig University                                         |
-| 2015–2017 | Research assistant          | Area Studies       | Institute for Advanced Studies in         Humanities (KWI) |
-| 2016      | Internship                  | Culture Management | German Consulate General, Shanghai                         |
-| 2012–2013 | Student assistant           | Chinese Studies    | Ruhr-University Bochum                                     |
+| Year       | Position                    | Field              | Organisation                                       |
+| ---------- | --------------------------- | ------------------ | -------------------------------------------------- |
+| since 2025 | **Coordinator**             | Area Studies       | China Centre, Kiel University                      |
+| 2020–2024  | **Postdoc Researcher**      | Global Dynamics    | **Leipzig University**                             |
+| 2023       | **Postdoc Research Fellow** | Economic History   | **Keio University**                                |
+| 2017–2021  | Lecturer & Researcher       | Chinese Studies    | Leipzig University                                 |
+| 2015–2017  | Research assistant          | Area Studies       | Institute for Advanced Studies in Humanities (KWI) |
+| 2016       | Internship                  | Culture Management | German Consulate General, Shanghai                 |
+| 2012–2013  | Student assistant           | Chinese Studies    | Ruhr-University Bochum                             |
 
 ## Awards
 
@@ -37,10 +38,10 @@ tags: ["cv"]
 
 ## Elected Positions
 
-| Year      | Type                                                          | Organisation                                        |
-| --------- | ------------------------------------------------------------- | --------------------------------------------------- |
-| 2021–2025 | [Treasurer and board member](https://dvcs.eu/vorstand_en.php) | German China             Studies Association (DVCS) |
-| 2021–2023 | Board representative                                          | Collaborative Research Centre          (SFB) 1199   |
+| Year      | Type                                                          | Organisation                             |
+| --------- | ------------------------------------------------------------- | ---------------------------------------- |
+| 2021–2025 | [Treasurer and board member](https://dvcs.eu/vorstand_en.php) | German China Studies Association (DVCS)  |
+| 2021–2023 | Board representative                                          | Collaborative Research Centre (SFB) 1199 |
 
 ## Certificates
 
@@ -66,13 +67,19 @@ tags: ["cv"]
 
 | Year      | Type                                                                                                | Country |
 | --------- | --------------------------------------------------------------------------------------------------- | ------- |
-| 2023      | Archival research at Diet Library, Tokyo Tech,             Tokyo/Kyoto/Osaka University archives    | Japan   |
-| 2022–2023 | Archival research at Academia Sinica, Academia             Historica, National Central Library      | Taiwan  |
+| 2023      | Archival research at Diet Library, Tokyo Tech, Tokyo/Kyoto/Osaka University archives                | Japan   |
+| 2022–2023 | Archival research at Academia Sinica, Academia Historica, National Central Library                  | Taiwan  |
 | 2022      | Research associate, Aix-Marseille University                                                        | France  |
 | 2020      | Archival research at Stanford, Utah, Illinois, Purdue                                               | USA     |
 | 2018      | Archival research at London School of Economics & SOAS                                              | UK      |
 | 2018      | Invited visit to M. I. T.; archival research at Harvard, M. I. T., Yale, LoC, Smithsonian, Columbia | USA     |
 | 2018      | Invited guest researcher, Renmin University                                                         | China   |
+
+## Editorships
+
++ [*Jahrbuch der Deutschen Vereinigung für Chinastudien*](https://www.harrassowitz-verlag.de/reihe_393.ahtml) (since 2024)
+
++ Editor assistant for [*Climate and Culture*](https://brill.com/display/serial/CLAC) (2015–17)
 
 ## Peer Review Assignments
 

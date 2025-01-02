@@ -8,6 +8,8 @@ tags: ["presentations"]
 
 ## Conference Papers & Workshop Presentations
 
++ “From Archives to Algorithms: Digital History of Global China through the Lens of AI,” Hong Kong University of Science and Technology, Hong Kong, 2024.
+
 + [“Lanzhou im Krieg: Urbanisierung eines infrastrukturellen Knotenpunkts [Lanzhou during Wartime: Urbanisation of an Infrastructural Hub],“ DVCS, Münster, 2024.](https://www.uni-muenster.de/imperia/md/content/sinologie/pdf/dvcs_2024_poster.pdf)
 
 + [“Engineers in Taiwan, 1945–1974: Migration & Taiwanisation.” TAP, Bochum, 2024.](https://www.oaw.ruhr-uni-bochum.de/mam/forschung/tru/posters/digital_workshop_program.pdf)
