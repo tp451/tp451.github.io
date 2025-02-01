@@ -90,3 +90,7 @@ tags: ["cv"]
 + *Journal of Chinese History*
 
 + *Journal of the Royal Asiatic Society*
+
+## Memberships
+
++ AAS, EACS, DVCS
