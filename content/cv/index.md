@@ -20,7 +20,7 @@ tags: ["cv"]
 
 | Year       | Position                    | Field              | Organisation                                       |
 | ---------- | --------------------------- | ------------------ | -------------------------------------------------- |
-| since 2025 | **Coordinator**             | Area Studies       | China Centre, Kiel University                      |
+| 2025       | **Lead Coordinator**        | Area Studies       | China Centre, Kiel University                      |
 | 2020–2024  | **Postdoc Researcher**      | Global Dynamics    | **Leipzig University**                             |
 | 2023       | **Postdoc Research Fellow** | Economic History   | **Keio University**                                |
 | 2017–2021  | Lecturer & Researcher       | Chinese Studies    | Leipzig University                                 |
