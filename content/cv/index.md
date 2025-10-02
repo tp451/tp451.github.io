@@ -18,23 +18,25 @@ tags: ["cv"]
 
 ## Career
 
-| Year       | Position                    | Field              | Organisation                                       |
-| ---------- | --------------------------- | ------------------ | -------------------------------------------------- |
-| 2025       | **Lead Coordinator**        | Area Studies       | China Centre, Kiel University                      |
-| 2020–2024  | **Postdoc Researcher**      | Global Dynamics    | **Leipzig University**                             |
-| 2023       | **Postdoc Research Fellow** | Economic History   | **Keio University**                                |
-| 2017–2021  | Lecturer & Researcher       | Chinese Studies    | Leipzig University                                 |
-| 2015–2017  | Research assistant          | Area Studies       | Institute for Advanced Studies in Humanities (KWI) |
-| 2016       | Internship                  | Culture Management | German Consulate General, Shanghai                 |
-| 2012–2013  | Student assistant           | Chinese Studies    | Ruhr-University Bochum                             |
+| Year       | Position                    | Field                            | Organisation                                       |
+| ---------- | --------------------------- | -------------------------------- | -------------------------------------------------- |
+| since 2025 | **Assistant Professor**     | Digital Humanities, Global China | Hong Kong University of Science and Technology     |
+| 2025       | **Lead Coordinator**        | Area Studies                     | China Centre, Kiel University                      |
+| 2020–2024  | **Postdoc Researcher**      | Global Dynamics                  | **Leipzig University**                             |
+| 2023       | **Postdoc Research Fellow** | Economic History                 | **Keio University**                                |
+| 2017–2021  | Lecturer & Researcher       | Chinese Studies                  | Leipzig University                                 |
+| 2015–2017  | Research assistant          | Area Studies                     | Institute for Advanced Studies in Humanities (KWI) |
+| 2016       | Internship                  | Culture Management               | German Consulate General, Shanghai                 |
+| 2012–2013  | Student assistant           | Chinese Studies                  | Ruhr-University Bochum                             |
 
 ## Awards
 
-| Year      | Type                   | Organisation                                                 |
-| --------- | ---------------------- | ------------------------------------------------------------ |
-| 2023      | **Postdoc Fellowship** | **JSPS** (Japan Society for the Promotion of Science)        |
-| 2018–2019 | Teaching project grant | Federal Ministry of Education                                |
-| 2011–2017 | **Full Scholarship**   | **Studienstiftung** (German Academic Scholarship Foundation) |
+| Year      | Type                   | Organisation                                                                          |
+| --------- | ---------------------- | ------------------------------------------------------------------------------------- |
+| 2025–2028 | Research grant         | DFG (German Research Foundation) — *did not commence due to conflicting appointments* |
+| 2023      | **Postdoc Fellowship** | **JSPS** (Japan Society for the Promotion of Science)                                 |
+| 2018–2019 | Teaching project grant | Federal Ministry of Education                                                         |
+| 2011–2017 | **Full Scholarship**   | **Studienstiftung** (German Academic Scholarship Foundation)                          |
 
 ## Elected Positions
 

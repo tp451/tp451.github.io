@@ -8,6 +8,10 @@ tags: ["presentations"]
 
 ## Conference Papers & Workshop Presentations
 
+### Original Research
+
++ [“Die Modernisierung der Wasser-Infrastruktur in Nordwest-China: Ökonomie und Ökologie im Zeichen des Zweiten Weltkriegs [The Modernization of Water Infrastructure in Northwest China: Economics and Ecology in the Context of World War II],” DOT, Erlangen, 2025.](https://express.converia.de/frontend/index.php?page_id=40895&v=List&do=15&day=all&ses=38603#anker_session_38603)
+
 + “From Archives to Algorithms: Digital History of Global China through the Lens of AI,” Hong Kong University of Science and Technology, Hong Kong, 2024.
 
 + [“Lanzhou im Krieg: Urbanisierung eines infrastrukturellen Knotenpunkts [Lanzhou during Wartime: Urbanisation of an Infrastructural Hub],“ DVCS, Münster, 2024.](https://www.uni-muenster.de/imperia/md/content/sinologie/pdf/dvcs_2024_poster.pdf)
@@ -42,10 +46,6 @@ tags: ["presentations"]
 
 + “The Role of Engineers within the Guomindang Technostructure. A Database-Driven Assessment,” Elites in China, ENP-China, Aix-Marseille, 2022.
 
-+ [Discussant, “Forschungskompetenz, Innovationsfähigkeit, Tenure-Track-Programm, #IchbinHanna Research Expertise, Innovation Skills, Tenure Track Programme, #IchbinHanna” ReCentGlobe Annual Conference, Leipzig, 2022.](https://www.youtube.com/watch?v=rzeGgvzJKB8)
-
-+ Discussant, “Wissen entgrenzen [Dissolving Knowledge],” Max Weber Foundation, Leipzig, 2021.
-
 + “Reflecting Boundaries: A Discussion of Frontiers, Borders, and Processes of Spatialization,” Processes of Spatialization, Leipzig, 2021.
 
 + “Dynamics of the 1920s Sino-American Network of Hydraulic Engineers,” EACS Biennial Conference. Leipzig, 2021.
@@ -58,7 +58,7 @@ tags: ["presentations"]
 
 + “US-Educated Engineers in Beiyang China. Wang Jingchun (1882–1956) and the Politics of Transportation,” AAS in Asia, Kobe [hybrid], 2020.
 
-+ “Three Ludic Commentaries on Tian’anmen,” 1989—A Caesura in Global History and its Consequences*.* Leipzig, 2019.
++ “Three Ludic Commentaries on Tian’anmen,” 1989—A Caesura in Global History and its Consequences. Leipzig, 2019.
 
 + “Der frühe Technokrat Wang Jingchun (1882–1956) und sein Lobbyismus für die
   Yue–Han-Eisenbahn [The Early Technocrat Wang Jingchun (1882–1956) and His Lobbyism for the Yue–Han-Railway],” DVCS, Berlin, 2018.
@@ -71,13 +71,25 @@ tags: ["presentations"]
 
 + “A Pride for Shanghai. Strategies of Adaption and Contextualization,” Queer East Asia Conference, Vienna, 2015.
 
+### Science System
+
+- 
+  
+  [“Policy Shifts in China: Implications for Germany’s Research Sector,” Secure Data Exchange Forum, GEOMAR, Kiel, 2025.](https://events.geomar.de/event/781/attachments/155/520/Agenda_June%205.pdf)
+
+- “Strategien und Ziele der Volksrepublik China und Implikationen für Wissenschaft und Forschung in Deutschland [PRC Strategies and Goals, and Implications for Science and Research in Germany],” Rostock University, 2025.
+
+- [Discussant, “Forschungskompetenz, Innovationsfähigkeit, Tenure-Track-Programm, #IchbinHanna Research Expertise, Innovation Skills, Tenure Track Programme, #IchbinHanna” ReCentGlobe Annual Conference, Leipzig, 2022.](https://www.youtube.com/watch?v=rzeGgvzJKB8)
+
+- Discussant, “Wissen entgrenzen [Dissolving Knowledge],” Max Weber Foundation, Leipzig, 2021.
+
+- [“Einflussnahmen, Abhängigkeiten und Selbstzensur: Gefahren des akademischen Engagements mit der VR China [Interferences, Dependencies, and Self-Censorship: Risks of Academic Engagement with the PR China],” TiCK. Paderborn, 2020.](https://www.uni-paderborn.de/universitaet/tick/nachricht/rueckblick-auf-die-zweite-ringvorlesung)
+
 ## General Audience Talks
 
 + “China: Bunter als ein Panda [China: More Diverse than a Panda],” Frankfurt Book Fair, 2022.
 
 + Chair, “Heiter scheitern [To Fail Cheerfully],” Leipzig, 2022.
-
-+ [“Einflussnahmen, Abhängigkeiten und Selbstzensur: Gefahren des akademischen Engagements mit der VR China [Interferences, Dependencies, and Self-Censorship: Risks of Academic Engagement with the PR China],” TiCK. Paderborn, 2020.](https://www.uni-paderborn.de/universitaet/tick/nachricht/rueckblick-auf-die-zweite-ringvorlesung)
 
 + Discussant, film talk “*Papa Rainbow*, dir. Fan Popo,” *wide queer world*. Leipzig, 2019.
 
