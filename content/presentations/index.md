@@ -6,7 +6,7 @@ tags: ["presentations"]
 
 ---
 
-## Conference Papers & Workshop Presentations
+## Conference & Workshop Papers
 
 ### Original Research
 
@@ -40,7 +40,7 @@ tags: ["presentations"]
 
 + [“Chinese Engineers Relational Database,” Tools of the Trade, Harvard University, 2023.](https://sites.harvard.edu/tools-of-the-trade/workshops-2/)
 
-+ “Technocracy and Technostructure in Nationalist China. Expert Rule or Rule over Experts?” Elites in China and Taiwan, ENP-China, Academia Sinica, Taipei, 2023.
++ [“Technocracy and Technostructure in Nationalist China. Expert Rule or Rule over Experts?” Elites in China and Taiwan, ENP-China, Academia Sinica, Taipei, 2023.](https://ccsndb.ncl.edu.tw/nclccs/pdf/02_042_002_06_01.pdf)
 
 + “Engineering Associations in Republican China. Professional Resilience during Dispersed Political Control,” World Economic History Congress, Paris, 2022.
 
@@ -48,7 +48,7 @@ tags: ["presentations"]
 
 + “Reflecting Boundaries: A Discussion of Frontiers, Borders, and Processes of Spatialization,” Processes of Spatialization, Leipzig, 2021.
 
-+ “Dynamics of the 1920s Sino-American Network of Hydraulic Engineers,” EACS Biennial Conference. Leipzig, 2021.
++ [“Dynamics of the 1920s Sino-American Network of Hydraulic Engineers,” EACS Biennial Conference. Leipzig, 2021.](https://conference.uni-leipzig.de/eacs2020/timetable/event/engineers-for-modernising-china/)
 
 + [“The Civil Engineer Ling Hongxun (1894–1981) as an Educator.” International Committee for the History of Technology, Prague [hybrid], 2021.](https://ichst2021.confea.net/?download=_/book_of_abstracts/ichst-2021-book-of-abstracts.pdf)
 
@@ -56,12 +56,12 @@ tags: ["presentations"]
 
 + “Social Cohesion and Radical Infrastructures in Nationalist China,” Social Cohesion in a Transregional and Global Perspective. Leipzig, 2020.
 
-+ “US-Educated Engineers in Beiyang China. Wang Jingchun (1882–1956) and the Politics of Transportation,” AAS in Asia, Kobe [hybrid], 2020.
++ [“US-Educated Engineers in Beiyang China. Wang Jingchun (1882–1956) and the Politics of Transportation,” AAS in Asia, Kobe [hybrid], 2020.](https://aasinasia2020.org/submission/submission1384/)
 
 + “Three Ludic Commentaries on Tian’anmen,” 1989—A Caesura in Global History and its Consequences. Leipzig, 2019.
 
-+ “Der frühe Technokrat Wang Jingchun (1882–1956) und sein Lobbyismus für die
-  Yue–Han-Eisenbahn [The Early Technocrat Wang Jingchun (1882–1956) and His Lobbyism for the Yue–Han-Railway],” DVCS, Berlin, 2018.
++ [“Der frühe Technokrat Wang Jingchun (1882–1956) und sein Lobbyismus für die
+  Yue–Han-Eisenbahn [The Early Technocrat Wang Jingchun (1882–1956) and His Lobbyism for the Yue–Han-Railway],” DVCS, Berlin, 2018.](https://www.dvcs.eu/dokumente/2018Programm.pdf)
 
 + “The School of Natural Justice. Chinese Anarchists in Tokyo,” Initiative Japanforschung, Leuven, 2017.
 
@@ -71,11 +71,9 @@ tags: ["presentations"]
 
 + “A Pride for Shanghai. Strategies of Adaption and Contextualization,” Queer East Asia Conference, Vienna, 2015.
 
-### Science System
+### Academic System Commentary
 
-- 
-  
-  [“Policy Shifts in China: Implications for Germany’s Research Sector,” Secure Data Exchange Forum, GEOMAR, Kiel, 2025.](https://events.geomar.de/event/781/attachments/155/520/Agenda_June%205.pdf)
+- [“Policy Shifts in China: Implications for Germany’s Research Sector,” Secure Data Exchange Forum, GEOMAR, Kiel, 2025.](https://events.geomar.de/event/781/attachments/155/520/Agenda_June%205.pdf)
 
 - “Strategien und Ziele der Volksrepublik China und Implikationen für Wissenschaft und Forschung in Deutschland [PRC Strategies and Goals, and Implications for Science and Research in Germany],” Rostock University, 2025.
 
