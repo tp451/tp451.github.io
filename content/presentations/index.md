@@ -14,7 +14,7 @@ tags: ["presentations"]
 
 + [“Digital China: AI and the Humanities?”, China Lunch, TU Berlin [via Zoom], 2025.](https://www.youtube.com/watch?v=w9nc3aPcAD4)
 
-+ [“Chinaforschung in Norddeutschland: Eine quantitative Analyse [China Research in Northern Germany: A Quantitative Analysis,” DVCS, Hamburg [prerecorded], 2025.](https://www.aai.uni-hamburg.de/china/dvcs2025/medien/dvcs-2024-programm-simpel)
++ [“Chinaforschung in Norddeutschland: Eine quantitative Analyse [China Research in Northern Germany: A Quantitative Analysis],” DVCS, Hamburg [prerecorded], 2025.](https://www.aai.uni-hamburg.de/china/dvcs2025/medien/dvcs-2024-programm-simpel)
 
 + [“Launch of the Atlas of East Asia-Related Research in Northern Germany,” Kiel [via Zoom], 2025.](https://www.uni-kiel.de/en/international/chikon/details/news/presentation-launch-of-the-atlas-of-east-asia-related-research-in-northern-germany)
 
