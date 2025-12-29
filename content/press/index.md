@@ -9,8 +9,9 @@ tags: ["press"]
 
 ### Engineering Trouble
 
-+ [Delphine Spicq, *Technology and Culture* 65, no. 3](https://muse.jhu.edu/article/933107)
 + [Diego Cavalcanti Araújo, *Journal of History of Science and Technology* 18, no. 2](https://doi.org/10.2478/host-2024-0020)
++ [Ben Kletzer, *Journal of Chinese History* 10, no. 1](https://doi.org/10.1017/jch.2025.10072)
++ [Delphine Spicq, *Technology and Culture* 65, no. 3](https://muse.jhu.edu/article/933107)
 
 ### 100 Karten über China
 
