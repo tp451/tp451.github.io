@@ -10,7 +10,9 @@ tags: ["presentations"]
 
 ### Original Research
 
-+ “Imperial Governance in the *Taishū jinji-roku*: Data Mining the National Diet's Next Digital Library,” HKADH, Hong Kong, 2026.
++ “The Japanese Governance of Asia: AI-Assisted Approaches to Mining, Cleaning, and Structuring Historical Prosopographical Data.” New Horizons for AI Research in the Social Sciences and Humanities, UChicago HK Campus, 2026.
+
++ [“Imperial Governance in the *Taishū jinji-roku*: Data Mining the National Diet's Next Digital Library,” HKADH, Hong Kong, 2026.](https://2026.hkadh.org/agenda/)
 
 + [“Digital China: AI and the Humanities?”, China Lunch, TU Berlin [via Zoom], 2025.](https://www.youtube.com/watch?v=w9nc3aPcAD4)
 

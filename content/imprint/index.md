@@ -7,7 +7,7 @@ tags: ["imprint"]
 
 ## Imprint (Impressum)
 
-Anbieter dieser Internetseite, inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV und Verantwortlicher DSGVO: Dr. Thorben Pelzer, Nikolaistraße 6, 04109 Leipzig, T 49 341 97 37764, thorben @ pelzer . blog.
+Anbieter dieser Internetseite, inhaltlich Verantwortlicher gemäß § 18 Abs. 2 MStV und Verantwortlicher DSGVO: Dr. Thorben Pelzer, 3351 Academic Building, HKUST, Clear Water Bay, Hong Kong SAR, thorben @ pelzer . blog.
 
 ## Credits
 
