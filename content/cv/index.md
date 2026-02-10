@@ -87,11 +87,15 @@ tags: ["cv"]
 
 + *Annali di Ca'Foscari. Serie orientale*
 
++ European Cooperation in Science and Technology (COST)
+
 + *Jahrbuch der Deutschen Vereinigung für Chinastudien*
 
 + *Journal of Chinese History*
 
 + *Journal of the Royal Asiatic Society*
+
++ *Modern Asian Studies*
 
 ## Memberships
 
