@@ -10,7 +10,7 @@ tags: ["presentations"]
 
 ### Original Research
 
-+ “The Japanese Governance of Asia: AI-Assisted Approaches to Mining, Cleaning, and Structuring Historical Prosopographical Data.” New Horizons for AI Research in the Social Sciences and Humanities, UChicago HK Campus, 2026.
++ [“The Japanese Governance of Asia: AI-Assisted Approaches to Mining, Cleaning, and Structuring Historical Prosopographical Data.” New Horizons for AI Research in the Social Sciences and Humanities, UChicago HK Campus, 2026.](https://events.uchicago.edu/event/259122-new-horizons-for-ai-research-in-the-social)
 
 + [“Imperial Governance in the *Taishū jinji-roku*: Data Mining the National Diet's Next Digital Library,” HKADH, Hong Kong, 2026.](https://2026.hkadh.org/agenda/)
 
@@ -94,6 +94,8 @@ tags: ["presentations"]
 - [“Einflussnahmen, Abhängigkeiten und Selbstzensur: Gefahren des akademischen Engagements mit der VR China [Interferences, Dependencies, and Self-Censorship: Risks of Academic Engagement with the PR China],” TiCK. Paderborn, 2020.](https://www.uni-paderborn.de/universitaet/tick/nachricht/rueckblick-auf-die-zweite-ringvorlesung)
 
 ## General Audience Talks
+
++ ["Where Do We Stand With AI in Humanities and Social Science?," Centre d'études français sur la Chine Contemporaine, 2026.](https://www.cefc.com.hk/fr/event/where-do-we-stand-with-ai-in-the-humanities-and-social-science/)
 
 + “China: Bunter als ein Panda [China: More Diverse than a Panda],” Frankfurt Book Fair, 2022.
 
