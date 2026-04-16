@@ -95,6 +95,8 @@ tags: ["presentations"]
 
 ## General Audience Talks
 
++ [“Chinaforschung in Norddeutschland [China Research in Northern Germany],” ChiKoN Forum, Kiel [prerecorded], 2026.](https://www.uni-kiel.de/en/international/chikon/details/news/chikon-forum-china-competencies-in-higher-education-and-research-transfer)
+
 + ["Where Do We Stand With AI in Humanities and Social Science?," Centre d'études français sur la Chine Contemporaine, 2026.](https://www.cefc.com.hk/fr/event/where-do-we-stand-with-ai-in-the-humanities-and-social-science/)
 
 + “China: Bunter als ein Panda [China: More Diverse than a Panda],” Frankfurt Book Fair, 2022.
