@@ -10,6 +10,18 @@ tags: ["presentations"]
 
 ### Original Research
 
++ Organiser & Discussant, “Futures of AI in History Research,” AAS, Boston, 2027.
+
++ “The Orbital Kodak: Automated 3D Reconstruction from Cold War Reconnaissance Imagery,” HK Association for Digital Humanities Conference, Education University, Hong Kong, 2027.
+
++ [“Vergangene Welten: Verortung chinesischer Räume auf Spionage-Aufnahmen des Kalten Kriegs“ [Past Worlds: Locating Chinese Spaces on Cold War Spy Footage], DVCS, Göttingen, 2026.](https://events.gwdg.de/event/1481/program)
+
++ [Keynote, “AI as a Method in Chinese History Research,” Summer College of Corpora and Digital Humanities, Nanjing University, 2026.](https://shss.hkust.edu.hk/news/hkust-and-partners-organize-digital-humanities-event-expand-interdisciplinary-impact)
+
++ “Scaling Historical Research: Reproducible Large-Scale Extraction of Biographical Sinogram Data,” Labor, Technology, and the Politics of Cold War Information Production, HKUST, 2026.
+
++ [Discussant, “Accounting for Digital China,” Chinese University HK, 2026.](https://u.osu.edu/mclc/2026/05/18/synthesis-%E5%90%88-conference/)
+
 + [“The Japanese Governance of Asia: AI-Assisted Approaches to Mining, Cleaning, and Structuring Historical Prosopographical Data.” New Horizons for AI Research in the Social Sciences and Humanities, UChicago HK Campus, 2026.](https://events.uchicago.edu/event/259122-new-horizons-for-ai-research-in-the-social)
 
 + [“Imperial Governance in the *Taishū jinji-roku*: Data Mining the National Diet's Next Digital Library,” HKADH, Hong Kong, 2026.](https://2026.hkadh.org/agenda/)
@@ -81,7 +93,9 @@ tags: ["presentations"]
 
 + “A Pride for Shanghai. Strategies of Adaption and Contextualization,” Queer East Asia Conference, Vienna, 2015.
 
-### Academic System Commentary
+### Academic System
+
+- Research Policies in China, China Competence Certificate, TU Berlin, 2026.
 
 - [“Policy Shifts in China: Implications for Germany’s Research Sector,” Secure Data Exchange Forum, GEOMAR, Kiel, 2025.](https://events.geomar.de/event/781/attachments/155/520/Agenda_June%205.pdf)
 
@@ -93,7 +107,11 @@ tags: ["presentations"]
 
 - [“Einflussnahmen, Abhängigkeiten und Selbstzensur: Gefahren des akademischen Engagements mit der VR China [Interferences, Dependencies, and Self-Censorship: Risks of Academic Engagement with the PR China],” TiCK. Paderborn, 2020.](https://www.uni-paderborn.de/universitaet/tick/nachricht/rueckblick-auf-die-zweite-ringvorlesung)
 
-## General Audience Talks
+## General Audience
+
++ [Discussant, “A History of AI through Its Governance,” Rethinking the Human in the Age of AI, Centre d’études français sur la Chine Contemporaine, Hong Kong, 2026.](https://www.cefc.com.hk/event/governing-the-memory-engine-a-history-of-ai-through-its-governance/)
+
++ [“Human Intellectual Work in the Age of AI,” Rethinking the Human in the Age of AI, Centre d’études français sur la Chine Contemporaine, Hong Kong, 2026.](https://www.cefc.com.hk/event/rethinking-the-human-in-the-age-of-ai-perspectives-from-europe-and-the-sinophone-world/)
 
 + [“Chinaforschung in Norddeutschland [China Research in Northern Germany],” ChiKoN Forum, Kiel [prerecorded], 2026.](https://www.uni-kiel.de/en/international/chikon/details/news/chikon-forum-china-competencies-in-higher-education-and-research-transfer)
 
@@ -110,7 +128,7 @@ tags: ["presentations"]
 + Discussant, “Chungkuk LGBT hwaltongŭi kwakŏwa, hyŏnchae,
   chŏnmang [Past, Present, and Prospects of China’s LGBT Project],” *2015 Asia Conference on LGBT.* Seoul, 2015.
 
-## Invited Classroom Lectures
+## Invited Classrooms
 
 + [“Utilising Prosopographic Databases for Network and Spatial Analysis,” MPIWG Berlin, 2024.](https://www.mpiwg-berlin.mpg.de/event/charting-european-d-sea#workshop)
 

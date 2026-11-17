@@ -91,9 +91,13 @@ tags: ["cv"]
 
 + European Cooperation in Science and Technology (COST)
 
++ Hong Kong Association for Digital Humanities (HKADH) Conference
+
 + *Jahrbuch der Deutschen Vereinigung für Chinastudien*
 
 + *Journal of Chinese History*
+
++ *Journal of the Gilded Age and Progressive Era*
 
 + *Journal of the Royal Asiatic Society*
 
@@ -102,6 +106,8 @@ tags: ["cv"]
 + *Modern China*
 
 + *Modern Intellectual History*
+
++ *Twentieth-Century China*
 
 ## Memberships
 
