@@ -16,8 +16,8 @@ title = "Dr. Thorben Pelzer"
  [author]
    name = "Dr. Thorben Pelzer"
    image = "logo.jpg"
-   headline = "China specialist, data professional, project manager"
-  # bio = "A highly motivated East Asia expert with a passion for bridging the gap between research and real-world applications. I bring over seven years of experience in academic research, focusing on economic history and social dynamics in modern China. My foray into data analysis equip me to leverage my expertise to provide insightful solutions for businesses and organizations."
+   headline = "History & Digital Humanities & HKUST"
+  # bio = "An East Asia expert with a passion for bridging the gap between humanities research and digital applications, focusing on social dynamics in modern China."
    links = [
       { linkedin = "https://www.linkedin.com/in/thorben-pelzer/" },
      { email = "mailto:thorben@pelzer.blog" },
