@@ -16,7 +16,7 @@ title = "Dr. Thorben Pelzer"
  [author]
    name = "Dr. Thorben Pelzer"
    image = "logo.jpg"
-   headline = "History & Digital Humanities & HKUST"
+   headline = "History & Digital Humanities @ HKUST"
   # bio = "An East Asia expert with a passion for bridging the gap between humanities research and digital applications, focusing on social dynamics in modern China."
    links = [
       { linkedin = "https://www.linkedin.com/in/thorben-pelzer/" },
